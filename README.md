@@ -2,12 +2,12 @@
 
 The purpose of this README is to describe how to host a resume online with various tools, such as GitHub Pages, Jekyll, Markdown, and a Markdown editor in Windows.
 
-Prerequisites:
+## Prerequisites:
 
 * Markdown editor (Typora, for example)
 * Markdown formatted resume
 
-### Formatting Your Resume
+## Formatting Your Resume
 
 There are a lot of different Markdown flavors. Standard Markdown works, but is somewhat limited. It lacks certain features such as tables, so if you plan on using some fancier features, consider a flavor. Markdown is a great choice because it is easy to learn and offers a lot of flexibility, such as being able to be converted to HTML or XML. Check the [More Resources](# More Resources) section for a Markdown tutorial.
 
