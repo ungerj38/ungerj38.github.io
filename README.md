@@ -100,15 +100,11 @@ https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/
 
 ### Authors and Acknowledgements
 
-Gurtej Boparai 
-
-Yucong Nie 
-
-Tim Appleyard 
-
-Jordan Unger 
-
-Dean Pistorius
+* Gurtej Boparai 
+* Yucong Nie 
+* Tim Appleyard 
+* Jordan Unger 
+* Dean Pistorius
 
 ### FAQs
 
