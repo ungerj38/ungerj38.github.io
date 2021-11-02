@@ -98,7 +98,7 @@ https://www.markdowntutorial.com/
 
 https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS
 
-**Authors and Acknowledgements**
+### Authors and Acknowledgements
 
 Gurtej Boparai 
 
@@ -110,7 +110,7 @@ Jordan Unger
 
 Dean Pistorius
 
-**FAQs**
+### FAQs
 
 Q: Why are we using a Markdown editor instead of a word processor?
 
