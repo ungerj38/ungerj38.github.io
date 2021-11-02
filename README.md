@@ -86,7 +86,7 @@ Keep in mind that while you do these steps, GitHub Pages can take roughly 20 min
 
 ​	Then we will create a website with a static site generator known as Jekyll. Hosting you resume on an updatable format such as a website is important. Formats that cannot be updated, such as PDFs, have the problem of leaving people with out of date information on their end. When you update your PDF stored resume, yours is up to date, but anybody that was sent an older version is not. Storing you resume on a website can solve this. Your resume might look something like this.
 
-![Animation](.\Animation.gif)
+![Animation](https://github.com/ungerj38/ungerj38.github.io/main/Animation.gif)
 
 ### More Resources:
 
