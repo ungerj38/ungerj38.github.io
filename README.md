@@ -104,7 +104,9 @@ Your resume might look something like this.
 ### FAQs
 
 Q: Why are we using a Markdown editor instead of a word processor?
+
 A: We are using a Markdown editor instead of a word processor because Markdown allows for you to interface with web development, despite being somewhat more complex than using a word processor. Markdown is easy to learn, especially when compared to HTML.
 
 Q: Why is my resume showing up in basic HTML?
+
 A: Your resume might be showing up in basic HTML if you did not rebuild your site after making changes. Make sure you run the command `bundle install` when you make changes.
