@@ -90,10 +90,10 @@ Keep in mind that while you do these steps, GitHub Pages can take roughly 20 min
 
 ### More Resources:
 
-[Jekyll Installation](https://jekyllrb.com/docs/installation/)
-[Setting up a GitHub Pages with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll)
-[Markdown Tutorial](https://www.markdowntutorial.com/)
-[Modern Technical Writing by Andrew Etter](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
+* [Jekyll Installation](https://jekyllrb.com/docs/installation/)
+* [Setting up a GitHub Pages with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll)
+* [Markdown Tutorial](https://www.markdowntutorial.com/)
+* [Modern Technical Writing by Andrew Etter](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
 
 ### Authors and Acknowledgements
 
