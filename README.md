@@ -40,7 +40,7 @@ This environment allows you to work on your website locally. So, if you do not h
 
 ### Initializing a Jekyll site
 
-Jekyll sites come with a lot of advantages. All they need to do is store pages on a server, so they are relatively easy to set up. Andrew Etter points out that this means that the requisite hardware resources are very small.
+Jekyll sites come with a lot of advantages. All they need to do is store pages on a server, so they are relatively easy to set up. Andrew Etter points out that this means that the requisite hardware resources are very small. He also highlights that hosting your resume in an updatable format such as a website is important. Formats that cannot be updated, such as PDFs, have the problem of leaving people with out of date information on their end. When you update your PDF stored resume, yours is up to date, but anybody that was sent an older version is not. Storing your resume on a website can solve this.
 
 Keep in mind that while you do these steps, GitHub Pages can take roughly 20 minutes to update your site. So if you do not see changes immediately, wait a bit.
 
@@ -52,7 +52,7 @@ Keep in mind that while you do these steps, GitHub Pages can take roughly 20 min
 
 4. Enter the folder the previous command created with the chosen parameter as a name. 
 
-5. Within your repository decide where you want your site to be located. If you want it in a directory titled "website," create that folder and enter it.
+5. Decide where within your repository you want your site to be located. If you want it in a directory titled "website," create that folder and enter it.
 
 6. Choose a branch for your site. If you want to publish your site on the gh-pages branch, enter the command `git checkout --orphan gh-pages`.
 
@@ -69,7 +69,6 @@ Keep in mind that while you do these steps, GitHub Pages can take roughly 20 min
 12. Run the command `bundle install` to build your new website.
 
     You did it! Now you need to move your work remotely.
-
     Make sure that if you make changes, you rebuild your entire site.
 
 ### Pushing Your Site to GitHub
@@ -78,12 +77,13 @@ Keep in mind that while you do these steps, GitHub Pages can take roughly 20 min
 2. Commit your work with `git commit -m 'Your message'`.
 3. Set the remote repository you want to add to with the command `$ git remote add location https://github.com/USERNAME/REPOSITORY_NAME.git`where USERNAME is your GitHub username and REPOSITORY_NAME is the name of the remote repository on GitHub. The parameter "location" can be anything you want, just as long as it is the same as in the command in the next step.
 4. Push your repository to GitHub with `git push -u location BRANCH-NAME` where BRANCH-NAME is the name of the branch in your local repository.
-5. In your GitHub repository, go to the Settings page next to the gear icon. Then, select the Pages section.
-6. Set the branch and directory in which you placed your website. So, if you pushed your site to the `docs` folder of the `main` branch, select those.
-7. Check your site from the link given in the Pages section.<br>Note: If the box that contains your link is blue, the site has not finished updating.  Be patient. It sometimes takes a while. When it is green, you are good to go.
+5. Go to the Settings page in your GitHub repository.
+6. Select the Pages section.
+7. Set the branch and directory in which you placed your website. So, if you pushed your site to the `docs` folder of the `main` branch, select those.
+8. Check your site from the link given in the Pages section.<br>Note: If the box that contains your link is blue, the site has not finished updating.  Be patient. It sometimes takes a while. When it is green, you are good to go.
 
-Etter highlights that hosting you resume in an updatable format such as a website is important. Formats that cannot be updated, such as PDFs, have the problem of leaving people with out of date information on their end. When you update your PDF stored resume, yours is up to date, but anybody that was sent an older version is not. Storing you resume on a website can solve this. Your resume might look something like this.
-
+One of the advantages of using this process is that it can be scripted. While difficult to learn, it makes work much more efficient in the long run.
+Your resume might look something like this.
 ![Animation](https://github.com/ungerj38/ungerj38.github.io/blob/main/Animation.gif)
 
 ### More Resources
@@ -104,9 +104,7 @@ Etter highlights that hosting you resume in an updatable format such as a websit
 ### FAQs
 
 Q: Why are we using a Markdown editor instead of a word processor?
-
-A: We are using a Markdown editor instead of a word processor because Markdown allows for interfacing with web development, despite being somewhat more complex than using a word processor. Markdown is easy to learn, especially when compared to HTML.
+A: We are using a Markdown editor instead of a word processor because Markdown allows for you to interface with web development, despite being somewhat more complex than using a word processor. Markdown is easy to learn, especially when compared to HTML.
 
 Q: Why is my resume showing up in basic HTML?
-
-A: Your resume might be showing up in basic HTML if you do not rebuild your site when you make changes. Make sure you run the command `bundle install` when you make changes.
+A: Your resume might be showing up in basic HTML if you did not rebuild your site after making changes. Make sure you run the command `bundle install` when you make changes.
