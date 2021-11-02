@@ -9,7 +9,7 @@ The purpose of this README is to describe how to host a resume online with vario
 
 ## Formatting Your Resume
 
-There are a lot of different Markdown flavors. Standard Markdown works, but is somewhat limited. It lacks certain features such as tables, so if you plan on using some fancier features, consider a flavor. Markdown is a great choice because it is easy to learn and offers a lot of flexibility, such as being able to be converted to HTML or XML. Check the [More Resources](# More Resources:) section for a Markdown tutorial.
+There are a lot of different Markdown flavors. Standard Markdown works, but is somewhat limited. It lacks certain features such as tables, so if you plan on using some fancier features, consider a flavor. Markdown is a great choice because it is easy to learn and offers a lot of flexibility, such as being able to be converted to HTML or XML. Check the [More Resources](#more-resources) section for a Markdown tutorial.
 
 ## Creating a GitHub Account
 
@@ -87,7 +87,7 @@ Then we will create a website with a static site generator known as Jekyll. Host
 
 ![Animation](https://github.com/ungerj38/ungerj38.github.io/blob/main/Animation.gif)
 
-### More Resources:
+### More Resources
 
 * [Jekyll Installation](https://jekyllrb.com/docs/installation/)
 * [Setting up a GitHub Pages with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll)
