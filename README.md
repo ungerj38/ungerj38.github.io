@@ -82,9 +82,8 @@ Keep in mind that while you do these steps, GitHub Pages can take roughly 20 min
 6. Set the branch and directory in which you placed your website. So, if you pushed your site to the `docs` folder of the `main` branch, select those.
 7. Check your site from the link given in the Pages section.<br>Note: If the box that contains your link is blue, the site has not finished updating.  Be patient. It sometimes takes a while. When it is green, you are good to go.
 
-​	A link to a Markdown tutorial can be found in the "More Resources" section below. 
-
-​	Then we will create a website with a static site generator known as Jekyll. Hosting you resume on an updatable format such as a website is important. Formats that cannot be updated, such as PDFs, have the problem of leaving people with out of date information on their end. When you update your PDF stored resume, yours is up to date, but anybody that was sent an older version is not. Storing you resume on a website can solve this. Your resume might look something like this.
+A link to a Markdown tutorial can be found in the "More Resources" section below. 
+Then we will create a website with a static site generator known as Jekyll. Hosting you resume on an updatable format such as a website is important. Formats that cannot be updated, such as PDFs, have the problem of leaving people with out of date information on their end. When you update your PDF stored resume, yours is up to date, but anybody that was sent an older version is not. Storing you resume on a website can solve this. Your resume might look something like this.
 
 ![Animation](https://github.com/ungerj38/ungerj38.github.io/blob/main/Animation.gif)
 
